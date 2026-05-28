@@ -1,4 +1,10 @@
-This repository uses multiple satellite-based and reanalysis datasets to reconstruct Terrestrial Water Storage (TWS) over Iran using deep learning models. The dataset includes GRACE/GRACE-FO TWS, soil moisture, precipitation, land surface temperature, and evapotranspiration. All datasets were obtained from the Google Earth Engine (GEE) platform and processed to a common monthly temporal resolution covering April 2002 to December 2022.
+This repository contains the datasets used in the study titled:
+
+“Genetic Algorithm-Optimized Deep Learning Models for Reconstruction of Terrestrial Water Storage from GRACE/GRACE-FO”
+
+This study uses multiple satellite-based and reanalysis datasets to reconstruct Terrestrial Water Storage (TWS) over Iran using deep learning models optimized with a Genetic Algorithm (GA). The dataset includes GRACE/GRACE-FO TWS, soil moisture, precipitation, land surface temperature, and evapotranspiration.
+
+All datasets were obtained from the Google Earth Engine (GEE) platform and processed to a common monthly temporal resolution covering April 2002 to December 2022.
 
 🌍 GRACE/GRACE-FO Terrestrial Water Storage
 
