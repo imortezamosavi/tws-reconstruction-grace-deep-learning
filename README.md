@@ -84,7 +84,8 @@ data/
 ├── features/
 │   ├── soil_moisture.csv
 │   ├── precipitation.csv
-│   ├── land_surface_temperature.csv
+│   ├── land_surface_temperature_d.csv
+│   ├── land_surface_temperature_n.csv
 │   └── evapotranspiration.csv
 ```
 
